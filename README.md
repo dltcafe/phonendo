@@ -20,8 +20,9 @@ https://github.com/orgs/dltcafe/projects/4
 
 ### Código
 
-* [Phonendo reader](https://github.com/dltcafe/phonendo_reader): WIP.
-* [Phonendo manager](https://github.com/dltcafe/phonendo_manager): WIP.
-* [Phonendo storage](https://github.com/dltcafe/phonendo_storage): WIP.
-* [Phonendo verifier](https://github.com/dltcafe/phonendo_verifier): WIP.
+* [Phonendo reader](https://github.com/dltcafe/phonendo_reader): v0.1. PineTime support & emulator support. WIP libp2p.
+* [Phonendo manager](https://github.com/dltcafe/phonendo_manager): v0.1.
+* [Phonendo storage](https://github.com/dltcafe/phonendo_storage): v0.1.
+* [Phonendo verifier](https://github.com/dltcafe/phonendo_verifier): v0.1.
+* [Phonendo publisher](https://github.com/dltcafe/phonendo_publisher): WIP v0.0.1 (mocked version). WIP rust migration & iota publish.
 
